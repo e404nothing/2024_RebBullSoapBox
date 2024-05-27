@@ -1,2 +1,63 @@
 # 2024_RebBullSoapBox
 Documentation for 1CMBG HQ &amp; Signals Squadron Redbull Soapbox project
+
+- Notes
+	- Rules
+		- Build
+			- No wider than 5'
+			- No longer than 10 feet
+			- At least 7" of ground clearance
+			- No more weight than 175lbs
+	- Race Information
+		- Day: `June 22, 2024`
+		- Location: `QUEEN ELIZABETH PARK ROAD`
+	- Progress
+		-  Build
+			- Weight
+				- Total
+					- `100`
+				- Frame
+					- Bottom frame is `36`lbs w/o top
+						- Cad says 28lbs
+					- Total is ~`65`
+				- Tires
+					- `8lbs/each`
+					- `64/total`
+					- [15 x 6.00-6 Turf Tire Assembly (princessauto.com)](https://www.princessauto.com/en/15-x-600-6-turf-tire-assembly/product/PA0008630105)
+					- [ ] Find bike tire alternative
+				- Shell
+					- ?
+				- Steering Mechnanism
+					- Single Wheel Assy: `?`
+					- Front Assy: `?`
+					- Whole Assy: `?`
+			-  Frame
+				-  [ ] Weld on top bit
+			-  Locomotion
+				- Wheels
+					- [15 x 6.00-6 Turf Tire Assembly (princessauto.com)](https://www.princessauto.com/en/15-x-600-6-turf-tire-assembly/product/PA0008630105)
+					- [ ] Investigate bike tires
+						- [ ] weight capacity
+						- [ ] estimated impact resistance
+				- Front Assy
+					- 
+				- Brakes
+					- [Drift hero brake kit | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/drift-hero-brake-kit-1#!)
+					- [Go-Kart Brake Kit (princessauto.com)](https://www.princessauto.com/en/go-kart-brake-kit/product/PA0008961930)
+					- Mount on rear spindle?
+						- Parts to assy
+							- [ ] Spindle w/ hard mount to frame
+							- [ ] bearings
+							- [ ] sleeve to go over bearings to mount to tire
+							- [ ] hard mount on spindle for calipers
+			- Steering
+				- [ ] Need to fine tune Tandem steering
+					- Ratio of; [steering wheel rotation]:[wheel angular rotation] does not look optimal. May require too much force to turn/too jerky at speed 
+				- [ ] confirm good rotation angle
+			- Seat
+				- [ ] Is there a lighter option than milk crate zip tied to bike seat?
+				- [ ] Need Hardpoint created to mount seat
+			- Shell
+				- [ ] Cut list/dimensions for cutting
+				- [ ] Built
+				- [ ] hardpoints to integrate with frame
